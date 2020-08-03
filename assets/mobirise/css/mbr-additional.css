@@ -108,8 +108,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #ffc107 !important;
-  border-color: #ffc107 !important;
+  background-color: #E5882C !important;
+  border-color: #E5882C !important;
   color: #ffffff !important;
   border-radius: 100px
 }
@@ -118,8 +118,8 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #ffc107 !important;
-  border-color: #ffc107 !important;
+  background-color: #A56023 !important;
+  border-color: #A56023 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
