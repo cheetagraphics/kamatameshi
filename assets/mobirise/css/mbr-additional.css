@@ -108,8 +108,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #ffc107 !important;
+  border-color: #ffc107 !important;
   color: #ffffff !important;
   border-radius: 100px
 }
@@ -118,8 +118,8 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #ffc107 !important;
+  border-color: #ffc107 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -521,7 +521,8 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #149dcc;
+  color: #232323;
+  text-decoration: underline;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -757,7 +758,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-s6kd7tX6Ou .counter-container {
-  color: #767676;
+  color: #232323;
 }
 .cid-s6kd7tX6Ou .counter-container ol {
   margin-bottom: 0;
@@ -811,7 +812,7 @@ section.lazy-placeholder:after {
   margin: 0;
 }
 .cid-s6kdMdCCOL .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-s6kdMdCCOL .card-wrapper {
   height: 100%;
